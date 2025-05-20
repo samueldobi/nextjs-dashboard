@@ -1,2 +1,2 @@
 # nextjs-dashboard
-A dashboard built with nextjs
+A user dashboard that is  built with nextjs
